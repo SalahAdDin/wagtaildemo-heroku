@@ -1,1 +1,1 @@
-web: gunicorn wagtaildemo.wsgi
+web: waitress-serve --port=$PORT {wagtaildemo}.wsgi:application

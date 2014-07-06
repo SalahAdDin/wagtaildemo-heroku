@@ -23,4 +23,5 @@ six==1.7.3
 static==1.0.2
 unicodecsv==0.9.4
 -e git://github.com/torchbox/wagtail.git@e2040e8842721d32a3eb122933a4cf60199a4a52#egg=wagtail-master
+waitress==0.8.9
 wsgiref==0.1.2
